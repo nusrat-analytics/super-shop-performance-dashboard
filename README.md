@@ -17,33 +17,27 @@ Customer purchasing behavior remains stable, with an average of 6 items per orde
 
 # Page 1 — Sales Overview
 Focus: Business Performance
-KPIs:
-•	Total Revenue
-•	Profit & Profit Margin
-•	Total Orders
-•	Average Order Value
-•	Items per Order
-Visuals:
-•	Revenue Trend
-•	AOV Trend
-•	Store Revenue & Profit Trend
-•	Sales by Store
-•	Sales by Category
+KPIs:	Total Revenue
+|Profit & Profit Margin|	Total Orders
+|Average Order Value
+|Items per Order
+Visuals:	Revenue Trend
+|	AOV Trend
+|	Store Revenue & Profit Trend
+|	Sales by Store
+|	Sales by Category
 # Page 2 — Product & Store Insights
 Focus: Performance Drivers
-Visuals:
-•	Top 5 Products
-•	Product vs Store Performance
-•	Revenue vs Profit (Scatter Plot)
-•	Profit by Category
+Visuals:	Top 5 Products
+|	Product vs Store Performance
+|	Revenue vs Profit (Scatter Plot)
+|Profit by Category
 
 # Page 3 — Customer Behavior
 Focus: Buying Patterns
-Visuals:
-•	Payment Method Share
-•	Items per Order Trend
-•	Total Orders Trend
-•	Items per Order by Category
+Visuals:Payment Method Share
+|Items per Order Trend|	Total Orders Trend
+|	Items per Order by Category
 
 # Key Insights
 1.Revenue and profit grew strongly (+13.1% and +13.0% MoM), indicating consistent business expansion.

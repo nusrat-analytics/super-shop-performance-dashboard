@@ -60,7 +60,7 @@ With consistent purchasing patterns (6 items per order), introduce bundle offers
 Analyze payment method distribution to promote faster or lower-cost payment channels, improving operational efficiency and customer experience
 
 # Business Impact
-*Identifies top-performing stores and products for strategic focus
+* Identifies top-performing stores and products for strategic focus
 *	Highlights profitability drivers and margin risks
 *	Supports pricing and cost optimization decisions
 *	Enables better understanding of customer purchasing patterns

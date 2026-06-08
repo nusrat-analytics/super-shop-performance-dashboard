@@ -1,3 +1,6 @@
+<img width="1345" height="756" alt="Sales Overview" src="https://github.com/user-attachments/assets/63f5df0f-5e86-4239-bcb5-3460e83fb259" />
+
+
 # Super Shop Performance Dashboard
 
 # Project Overview

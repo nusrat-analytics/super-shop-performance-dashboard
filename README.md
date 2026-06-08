@@ -1,7 +1,4 @@
-<img width="1348" height="754" alt="Sales Overview" src="https://github.com/user-attachments/assets/4c24e53b-db43-4fc8-81f0-7c364a150ece" />
-
-
-# Super Shop Performance Dashboard 
+##Super Shop Performance Dashboard 
 # Project Overview
 This project presents a Power BI dashboard designed to analyze retail performance across sales, profitability, and customer behavior, enabling data-driven business decisions.
 

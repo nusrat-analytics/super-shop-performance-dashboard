@@ -1,4 +1,5 @@
-##Super Shop Performance Dashboard 
+# Super Shop Performance Dashboard
+
 # Project Overview
 This project presents a Power BI dashboard designed to analyze retail performance across sales, profitability, and customer behavior, enabling data-driven business decisions.
 
